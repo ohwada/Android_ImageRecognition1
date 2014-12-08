@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageRecognition1</string>
+
+    <string name="button_photo">Photo</string>
+    <string name="button_camera">Camera</string>
+    <string name="button_recognize">Recognize</string>
+
+    <string name="msg_please_select">Please select photo</string>
+    <string name="msg_cannot_get">Cannot get path</string>
+
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_title_sdk">SDK Exception</string>
+    <string name="dialog_title_server">Server Exception</string>
+    <string name="dialog_msg_cannot">Cannot recognize photo</string>
+
+</resources>
