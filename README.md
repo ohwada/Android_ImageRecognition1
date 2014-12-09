@@ -13,6 +13,9 @@ https://dev.smt.docomo.ne.jp/?p=docs.api.page&api_docs_id=102 <br>
 when you touch the list item.
 
 ## Requirements
+Docomo API Key <br>
+https://dev.smt.docomo.ne.jp/?p=about.api <br>
+
 Docomo SDK <br>
 https://dev.smt.docomo.ne.jp/?p=docs.api.page&api_docs_id=102 <br>
 - docomo-common-android-sdk-xxx.jar <br>
